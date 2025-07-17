@@ -1,8 +1,8 @@
 {
-  "id": "d6c92f82-637b-450a-8ce9-0b04ae5fe1ed",
-  "name": "MainApp.Test",
+  "id": "e36110f4-2436-4931-acb3-ac3866df09f7",
+  "name": "Cloud.Test",
   "publisher": "Publisher",
-  "brief": "Test App",
+  "brief": "Cloud.Test",
   "description": "Test app",
   "version": "1.0.0.0",
   "privacyStatement": "",
@@ -11,12 +11,13 @@
   "url": "",
   "logo": "",
   "capabilities": [],
-  "dependencies": [ {
-    "appId": "7ce0b65f-bc3e-497b-95bf-c7538ad8a5e8",
-    "name": "MainApp",
-    "publisher": "Publisher",
-    "version": "1.0.0.0"
-  }
+  "dependencies": [
+    {
+      "appId": "c5534ff8-9fba-4ea6-ac6d-feaeb0b3a655",
+      "name": "Cloud",
+      "publisher": "Publisher",
+      "version": "1.0.0.0"
+    }
   ],
   "screenshots": [],
   "platform": "13.0.0.0",

@@ -1,8 +1,8 @@
 {
-  "id": "7ce0b65f-bc3e-497b-95bf-c7538ad8a5e8",
-  "name": "MainApp",
-  "publisher": "Publisher",
-  "brief": "My MainApp",
+  "id": "c5534ff8-9fba-4ea6-ac6d-feaeb0b3a655",
+  "name": "CFCloud",
+  "publisher": "Corefleet",
+  "brief": "Cloud",
   "description": "Main app",
   "version": "1.0.0.0",
   "privacyStatement": "",
@@ -10,18 +10,12 @@
   "help": "",
   "url": "",
   "logo": "",
-  "capabilities": [],
   "dependencies": [],
   "screenshots": [],
-  "platform": "13.0.0.0",
-  "application": "13.0.0.0",
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
   "features": [
     "TranslationFile"
   ],
-  "showMyCode": true,
-  "idRange": {
-    "from": 50000,
-    "to": 99999
-  },
-  "target": "Extension"
+  "target": "Cloud"
 }
